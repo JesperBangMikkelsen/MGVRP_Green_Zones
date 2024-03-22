@@ -5,4 +5,4 @@ This repository can be used to solve the Mixed Fleet Green Vehicle Routing Probl
 Requires an installation of [CPLEX](https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-optimizer) and [Concorde](https://math.au.dk/~aklose/Concorde/).
 
 # Test instances
-An extensive set of test instances can be found in the folder [instances](docs/).
+An extensive set of test instances can be found in the folder [instances](https://github.com/JesperBangMikkelsen/MGVRP_Green_Zones/tree/main/instances).
